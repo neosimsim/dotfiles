@@ -1,3 +1,4 @@
+DEPRECATED in favour of neosimsim/myenv
 # dotfiles
 Collection of my personal dotfiles.
 
